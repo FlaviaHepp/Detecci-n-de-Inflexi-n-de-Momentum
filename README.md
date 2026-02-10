@@ -1,4 +1,4 @@
-# Detección de Inflexión de Momentum
+# ✨Detección de Inflexión de Momentum
 
 Caídas Bruscas del RSI desde Sobrecompra
 
