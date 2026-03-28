@@ -69,3 +69,53 @@ Suele preceder:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+📉 **De sobrecompra a alerta en 24 horas. ¿Cambio de tendencia en puerta?**
+
+Hay momentos en el mercado donde todo parece fuerte…
+hasta que deja de serlo de golpe.
+
+⚡ Un patrón que me interesa במיוחד:
+
+👉 Acciones con **RSI > 70 (sobrecompra)**
+👉 Que caen **más de 10 puntos en un solo día**
+
+---
+
+🧠 ¿Qué significa esto?
+
+No es solo una caída de indicador.
+Es un posible **punto de inflexión en el momentum**.
+
+💡 Porque cuando el RSI cae bruscamente desde sobrecompra:
+
+* El impulso comprador pierde fuerza
+* Aparecen vendedores agresivos
+* Se debilita la continuidad de la tendencia
+
+---
+
+🚨 No siempre marca un reversal inmediato…
+pero sí suele anticipar:
+
+✔️ Correcciones de corto plazo
+✔️ Falsos breakouts
+✔️ Inicio de distribución
+
+---
+
+📊 En este análisis detecté automáticamente estos eventos para identificar activos donde el “sentimiento extremo” cambia de forma abrupta.
+
+---
+
+📉 Insight clave:
+**El peligro no es cuando el mercado cae…
+es cuando deja de subir con la misma fuerza.**
+
+---
+
+🔍 Entender estos cambios de momentum permite adelantarse, no reaccionar.
+
+#Trading #Quant #DataScience #Momentum #RSI #AnálisisTécnico #Finanzas
+
